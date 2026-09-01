@@ -19,7 +19,7 @@ inside one vendor's config format.
 | [**CHARTER.md**](CHARTER.md) | The full protocol spec — workspace · project · work order · agent; the compliance test |
 | [**COVENANT.md**](COVENANT.md) | Authority doctrine (You · session · agent) |
 | [**FOUNDING.md**](FOUNDING.md) | The walkthrough — set up a compliant workspace in an afternoon |
-| [**templates/**](templates/) | Fill-in-the-blank instruction files (workspace law, project law, agent contracts, boundaries) |
+| [**templates/**](templates/) | Founding forms only — workspace / project instructions, boundaries, agent contract |
 
 ## Adopt with a text editor
 
