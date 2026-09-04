@@ -62,7 +62,7 @@ one real project beats five hollow ones.
 File your first three work orders: real work you actually want done. From
 here on, work moves by work order, not memory. A paper list is enough. The
 optional engine is
-[WorkLane](https://github.com/protocolcity/ProtocolCity-WorkLane).
+[WorkLane](https://github.com/protocolcity/WorkLane).
 
 ## Step 4 — hire your first agent (L2 + L3)
 
@@ -88,9 +88,9 @@ You're a founded workspace when, for each project (Charter §4):
 Add an agent when the queue demands it, an instruction when a mistake
 teaches you one, a project when a folder earns one. A filled worked example
 — workspace root, one project, one agent — lives in
-[`example/`](https://github.com/protocolcity/ProtocolCity-BluePrint/tree/main/example).
+[`example/`](https://github.com/protocolcity/BluePrint/tree/main/example).
 
 Founded and want the optional suite? Start at
-[ProtocolCity-BluePrint](https://github.com/protocolcity/ProtocolCity-BluePrint).
+[BluePrint](https://github.com/protocolcity/BluePrint).
 Day two on the suite is
-[RUNNING.md](https://github.com/protocolcity/ProtocolCity-BluePrint/blob/main/RUNNING.md).
+[RUNNING.md](https://github.com/protocolcity/BluePrint/blob/main/RUNNING.md).
