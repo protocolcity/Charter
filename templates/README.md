@@ -4,7 +4,7 @@ Copy, fill every `{{PLACEHOLDER}}`, delete the guidance comments.
 
 These are the papers the [FOUNDING](../FOUNDING.md) walkthrough uses. The
 installable suite plants a larger kit (ops jobs, MCP, skills) — that lives
-in [ProtocolCity-BluePrint](https://github.com/protocolcity/ProtocolCity-BluePrint).
+in [BluePrint](https://github.com/protocolcity/BluePrint).
 
 | Template | Copy to | As |
 |---|---|---|

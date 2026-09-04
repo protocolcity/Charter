@@ -1,4 +1,4 @@
-# ProtocolCity-Charter
+# Charter
 
 > **Paper only.** This repository is the Protocol City specification — the
 > Charter, the authority doctrine, and fill-in-the-blank templates. There is
@@ -40,12 +40,12 @@ Products that automate parts of the protocol are optional and replaceable:
 
 | Product | What it automates |
 |---|---|
-| [**BluePrint**](https://github.com/protocolcity/ProtocolCity-BluePrint) | The installable suite — a visual map of your workspace, plus setup and day-to-day guides |
-| [**WorkLane**](https://github.com/protocolcity/ProtocolCity-WorkLane) | Work orders — a local-first queue with claim, sign, and close |
-| [**WorkForce**](https://github.com/protocolcity/ProtocolCity-WorkForce) | Hired agents — registered identities on schedules |
+| [**BluePrint**](https://github.com/protocolcity/BluePrint) | The installable suite — a visual map of your workspace, plus setup and day-to-day guides |
+| [**WorkLane**](https://github.com/protocolcity/WorkLane) | Work orders — a local-first queue with claim, sign, and close |
+| [**WorkForce**](https://github.com/protocolcity/WorkForce) | Hired agents — registered identities on schedules |
 
 Want the runnable suite instead of bare paper? Start at
-[ProtocolCity-BluePrint](https://github.com/protocolcity/ProtocolCity-BluePrint) —
+[BluePrint](https://github.com/protocolcity/BluePrint) —
 it installs the map and pulls the engines, and ships these same papers
 alongside.
 
