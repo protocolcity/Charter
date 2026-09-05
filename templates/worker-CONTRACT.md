@@ -96,7 +96,7 @@ renders) are derived, not the paper. Do not convert **code**, **databases**,
   change, file a citizen gate (`gate_type: human`) with label `host: …`, exact
   commands + rollback, then stop. Autonomous execution is an automatic contract
   violation.
-- **Human gates are scarce (PROCESS §3.9 / wl-257).** Do not mass-park the
+- **Human gates are scarce (PROCESS §3.9 / ).** Do not mass-park the
   board with bare `gate_type=human`. Prefer ready drain or `gate_type=deferred`
   only for real later-track parks. Action-shaped For You only when You must
   decide something *now*.
