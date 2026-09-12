@@ -49,6 +49,17 @@ Want the runnable suite instead of bare paper? Start at
 it installs the map and pulls the engines, and ships these same papers
 alongside.
 
+## Maintaining the specification
+
+This repository is the canonical source for these distributable papers.
+Edit and review changes here; no intermediate private-repository export is
+required. The source validation workflow checks the paper surface before
+publication. Keep workspace-specific instructions, operational history,
+customer information, and credentials outside this repository.
+
+Earlier revisions were generated exports. Their provenance remains in Git
+history; the former marker files are no longer a build requirement.
+
 ## License
 
 [CC BY 4.0](LICENSE) — use it, adapt it, build on it, with attribution.
