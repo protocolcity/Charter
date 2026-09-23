@@ -5,10 +5,9 @@ a text editor, and one honest inventory of your projects is all it takes.
 Nothing to install — the ["install"](templates/README.md) is copying
 templates and filling them in.
 
-**A workspace = a folder + agents + a boundaries registry.** The folder is
-the workspace root; agents are who works which project; Boundaries is the
-ACL — which cross-project permissions exist beyond the default that every
-home already reads and writes only itself.
+**A workspace starts with a selected folder, project instructions and tracked
+work.** Add agents and a boundaries registry as needed. Boundaries records
+declared permissions; it does not enforce an operating-system access control list.
 
 **The story:** You → Workspace → Project → Agent · Job. Work is **work
 orders**. Binding files are **instructions**.
@@ -59,7 +58,7 @@ one real project beats five hollow ones.
 
 ## Step 3 — track work
 
-File your first three work orders: real work you actually want done. From
+File a real work order for an outcome you want done. From
 here on, work moves by work order, not memory. A paper list is enough. The
 optional engine is
 [WorkLane](https://github.com/protocolcity/WorkLane).
