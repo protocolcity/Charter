@@ -40,14 +40,14 @@ Products that automate parts of the protocol are optional and replaceable:
 
 | Product | What it automates |
 |---|---|
-| [**BluePrint**](https://github.com/protocolcity/BluePrint) | The installable suite — a visual map of your workspace, plus setup and day-to-day guides |
+| [**BluePrint**](https://github.com/protocolcity/BluePrint) | The operations interface — work, projects, agents, evidence and supported engine actions |
 | [**WorkLane**](https://github.com/protocolcity/WorkLane) | Work orders — a local-first queue with claim, sign, and close |
-| [**WorkForce**](https://github.com/protocolcity/WorkForce) | Hired agents — registered identities on schedules |
+| [**WorkForce**](https://github.com/protocolcity/WorkForce) | Registered agents — configured manual or scheduled execution |
 
 Want the runnable suite instead of bare paper? Start at
 [BluePrint](https://github.com/protocolcity/BluePrint) —
-it installs the map and pulls the engines, and ships these same papers
-alongside.
+its install documentation explains the suite and independently installed engines.
+It bundles these papers and additional product templates.
 
 ## Maintaining the specification
 
